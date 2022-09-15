@@ -1,0 +1,9 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore IntelliJ specific project folder, to keep the project editor agnostic
+.idea
+.idea/*
+
+# Ignore Gradle build output directory
+build
